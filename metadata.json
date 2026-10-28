@@ -1,0 +1,6 @@
+{
+  "name": "EDIT X — All-in-One Creative Studio",
+  "description": "Professional creative editing studio combining multi-track video editing, photo retouching, motion graphics, graphic design, multi-track audio mixing, and Gemini AI creative tools.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
